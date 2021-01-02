@@ -1,0 +1,45 @@
+.btngroup {
+  margin-left: auto;
+  text-align: center;
+  margin-top: 38px;
+  margin-bottom: 36px;
+  margin-right: auto;
+}
+.codebtn {
+  /* padding: 0px !important; */
+  height: auto;
+  width: 96px;
+  background-color: #d5deff;
+  border: 0px !important;
+  padding: 3px 5px;
+  margin: 5px;
+  border-radius: 4px;
+}
+
+.codebtn h3 {
+  font-size: 34px;
+  text-align: center;
+  color: #577cff;
+  font-family: "Spartan", sans-serif;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.codebtn p {
+  font-size: 14px;
+  text-align: left;
+  font-weight: 700;
+  color: #577cff;
+}
+
+.selcodebtn {
+  background-color: #577cff !important;
+}
+
+.selcodebtn h3 {
+  color: #fff !important;
+}
+
+.selcodebtn p {
+  color: #fff !important;
+}
